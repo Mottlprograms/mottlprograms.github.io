@@ -1,6 +1,4 @@
----
-permalink: /main
----
+
 
 # hi, I'm Mottl.
 
